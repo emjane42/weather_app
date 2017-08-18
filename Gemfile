@@ -7,6 +7,8 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+#Instead of sqlite3 use pg 
+#gem 'pg'
 gem 'rails', '~> 5.1.3'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
